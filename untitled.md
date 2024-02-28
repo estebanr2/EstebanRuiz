@@ -6,5 +6,13 @@ b = 5
 c = a+b
 print(c)
 ```
-Salto de \ linea
+Salto de \\ linea
 ***
+## Listas ##
+- Leche
+- Huevo
+- Carnes
+    - Pescado
+    - Pollo
+1. Desconectar equipo
+2. Medir voltaje
