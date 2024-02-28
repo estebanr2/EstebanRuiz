@@ -6,6 +6,5 @@ b = 5
 c = a+b
 print(c)
 ```
-Salto de 
-<br>linea
+Salto de \ linea
 ***
