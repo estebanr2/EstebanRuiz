@@ -16,3 +16,6 @@ Salto de <br/> linea
     - Pollo
 1. Desconectar equipo
 2. Medir voltaje
+
+La ecuacion que relaciona el voltaje $V$ en una resistencia $R$ con su corriente $I$ se conoce como la ley de ohm:<br/>
+$$V = RI$$ 
