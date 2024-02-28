@@ -1,4 +1,4 @@
-# Primer archivo Markdown #
+# Primer archivo Markdown 
 **3 backticks para bloque de codigo**
 ```Python
 a = 3
@@ -8,7 +8,7 @@ print(c)
 ```
 Salto de <br/> linea
 ***
-## Listas ##
+## Listas 
 - Leche
 - Huevo
 - Carnes
@@ -16,6 +16,7 @@ Salto de <br/> linea
     - Pollo
 1. Desconectar equipo
 2. Medir voltaje
-
+***
+## LaTeX 
 La ecuacion que relaciona el voltaje $V$ en una resistencia $R$ con su corriente $I$ se conoce como la ley de ohm:<br/>
 $$V = RI$$ 
