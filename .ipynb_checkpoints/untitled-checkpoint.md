@@ -6,7 +6,7 @@ b = 5
 c = a+b
 print(c)
 ```
-Salto de \\ linea
+Salto de br/> linea
 ***
 ## Listas ##
 - Leche
